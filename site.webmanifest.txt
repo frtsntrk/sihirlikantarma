@@ -1,0 +1,23 @@
+   {
+    "name": "Sihirli Kantarma",
+    "short_name": "Sihirli Kantarma",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEioxbInqjYmAa8XivnGJcVF5H3_e3ZYGl9sruL8l3IiO4bUVJBkwP4SZiCJVwkg_r-0l1AbzcqxMGxqfdPFnFw_J_516Rpg04JEsdHrMJ-D-Ln3-msS6sxIKJVQ7QNiIQbJlUG7yFJ0ySd5dz-wKrCHCv-n-K_mAwIc2dnKHgmOnCQYnThghZvsZup8",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEg8n3SD72uihGGr5xsXW9l2q3zV2GqTiPTijxRUbqV3tr9q9K-nofpm_zbHynsNU8EVZm1B74mBX89wu7MMDKKmpBK2OFniPkcWE8nJKlmij5iaYScZcW1JKzJeH1AJ2lR5D5q0Y6bdb-pR_oSJcS1gB_3n4Yldu5xM-5I6iB_riM2RtAvudnjduUrE=s320",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.sihirlikantarma.com.com"
+}
